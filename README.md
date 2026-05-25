@@ -41,3 +41,23 @@ Each solution is written with:
 - Java ☕
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/forex911/Leet/tree/master/1871-jump-game-vii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/forex911/Leet/tree/master/1871-jump-game-vii) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/forex911/Leet/tree/master/1871-jump-game-vii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/forex911/Leet/tree/master/1871-jump-game-vii) |
+<!---LeetCode Topics End-->
