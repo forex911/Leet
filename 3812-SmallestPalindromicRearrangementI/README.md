@@ -1,0 +1,46 @@
+# 3517. Smallest Palindromic Rearrangement I
+
+**Difficulty:** Medium  
+[View on LeetCode](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/)
+
+---
+
+You are given a **palindromic** string `s`.
+
+Return the **lexicographically smallest** palindromic permutation of `s`.
+
+**Example 1:**
+
+**Input:** s = "z"
+
+**Output:** "z"
+
+**Explanation:**
+
+A string of only one character is already the lexicographically smallest palindrome.
+
+**Example 2:**
+
+**Input:** s = "babab"
+
+**Output:** "abbba"
+
+**Explanation:**
+
+Rearranging `"babab"` &rarr; `"abbba"` gives the smallest lexicographic palindrome.
+
+**Example 3:**
+
+**Input:** s = "daccad"
+
+**Output:** "acddca"
+
+**Explanation:**
+
+Rearranging `"daccad"` &rarr; `"acddca"` gives the smallest lexicographic palindrome.
+
+**Constraints:**
+
+- `1 <= s.length <= 10^5`
+- `s` consists of lowercase English letters.
+- `s` is guaranteed to be palindromic.
